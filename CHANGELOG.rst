@@ -2,6 +2,11 @@
 Changelog for package fs100_motoman
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* removed empty include dir
+* Contributors: AsgerWJ
+
 0.1.1 (2014-12-05)
 ------------------
 * fixed dependencies
