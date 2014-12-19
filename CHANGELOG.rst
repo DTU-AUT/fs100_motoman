@@ -2,9 +2,14 @@
 Changelog for package fs100_motoman
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
+*Added install to CMakelist
+*Changed mainatiner to Thomas Timm Andersen
 0.1.4 (2014-12-16)
 ------------------
-
+* Updated 
 0.1.3 (2014-12-08)
 ------------------
 * updated package description
